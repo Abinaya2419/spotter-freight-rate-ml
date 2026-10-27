@@ -25,4 +25,4 @@ The scorer validates both files and creates `scorer_results/candidate_december.p
 - 2-3 minute Loom link
 ## December 2025 Predicted Load Rate
 
-![December prediction chart](scorer_results/candidate_december.png)
+![December prediction chart](candidate_december.png)
