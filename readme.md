@@ -23,3 +23,6 @@ The scorer validates both files and creates `scorer_results/candidate_december.p
 - `validation_predictions.csv`
 - PDF or DOCX report containing your validation, data split approach and `candidate_december.png`
 - 2-3 minute Loom link
+## December 2025 Predicted Load Rate
+
+![December prediction chart](scorer_results/candidate_december.png)
